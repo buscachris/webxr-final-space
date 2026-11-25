@@ -1,8 +1,6 @@
 # WebXR Course Archive and Final Space
 
-This repository organizes the WebXR study demos by chapter and keeps the
-capstone research artifact separate. The examples follow the progression from
-WebGL to Three.js, WebXR, A-Frame, physics, and animated glTF models.
+I worked through ten WebXR chapters, from drawing with WebGL to interacting with animated models in A-Frame. I brought those techniques together in my Final Space capstone.
 
 ## Chapters and demos
 
@@ -30,16 +28,15 @@ components, physics, controller interaction, glTF, and animation.
 - [Third-party notices](./THIRD_PARTY_NOTICES.md)
 - [MIT License](./LICENSE)
 
-The MIT license applies to Christian Busca's original project files. External
+The MIT license applies to my original project files. External
 libraries, documentation, and the demonstration model retain their own terms.
 
 ## Local preview
 
-Serve the archive's parent directory and open the individual chapter folders:
+From the repository root I start a local server.
 
 ```bash
 python3 -m http.server 8081
 ```
 
-The deployed repository is public at
-<https://github.com/synthesoul/webxr-final-space>.
+I open `http://localhost:8081/capstone/webxr-final-space/` for the capstone or follow a chapter directory for its examples.
