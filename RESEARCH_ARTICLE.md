@@ -4,6 +4,8 @@
 **Document type:** Technical research article / portfolio study  
 **Date:** July 27, 2026
 
+I offer my original article text under either the [MIT License](LICENSE) or [CC BY 4.0](LICENSES/CC-BY-4.0.txt). For attribution, use Christian Busca and the title above.
+
 ## Abstract
 
 WebXR development can combine low-level graphics programming with higher-level

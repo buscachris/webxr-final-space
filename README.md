@@ -28,8 +28,7 @@ components, physics, controller interaction, glTF, and animation.
 - [Third-party notices](./THIRD_PARTY_NOTICES.md)
 - [MIT License](./LICENSE)
 
-The MIT license applies to my original project files. External
-libraries, documentation, and the demonstration model retain their own terms.
+I license my original project files under MIT. For my own writing in the [research article](RESEARCH_ARTICLE.md), I also offer [CC BY 4.0](LICENSES/CC-BY-4.0.txt). Readers may use either license for that text. External libraries, cited works, and the demonstration model retain their own terms.
 
 ## Local preview
 
